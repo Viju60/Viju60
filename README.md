@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vijay
+- 👋 Hi, I’m [VIJAY](https://t.me/Vijay1142)
 - 👀 I’m A STUDENT
 - 🌱 I’m currently learning 12TH
 
