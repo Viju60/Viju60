@@ -1,6 +1,10 @@
-- 👋 Hi, I’m [VIJAY](https://t.me/Vijay1142)
-- 👀 I’m A STUDENT
-- 🌱 I’m currently learning 12TH
+- 👋 Hi, I’m [VIJAY](https://t.me/itsmevijuu)
+- 👀 I’m noob coder
+- ✨ Tring To Becomes Pro
+- 🤓 Telegram Bot Developer
+- 🌱 I Am Using Python Language
+- 😛 currently learning FYBCS
+- #HATERS = FUCKS THE FUCKER BEFORE THE FUCKING🖕
 
 ## 🎯 **VIJU Github Stats**
 ![VIJU'S github stats](https://github-readme-stats.vercel.app/api?username=Viju60&show_icons=true&theme=tokyonight)
