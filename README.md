@@ -1,15 +1,14 @@
-- 👋 Hi, I’m [VIJAY](https://t.me/itsmevijuu)
-- I’m noob coder
-- Tring To Becomes Pro
-- Telegram Bot Developer
-- I Am Using Python Language
-- currently learning FYBCS
+- 👋 Hi, I’m [Vijay Kage](https://t.me/itsmevijuu)
+
+- Tring To Becomes Pro 
+- currently learning FYBSC Computer Science
+
+- I'm interested in python , C (basic) open source project , Telegram Bot's , pirogram 
+
+![Profile views](https://komarev.com/ghpvc/?username=Viju60&color=blue&style=flat-square&label=Profile+Views)
 
 ## 🎯 **VIJU Github Stats**
 ![VIJU'S github stats](https://github-readme-stats.vercel.app/api?username=Viju60&show_icons=true&theme=tokyonight)
-
-
-![Profile views](https://komarev.com/ghpvc/?username=Viju60&color=blue&style=flat-square&label=Profile+Views)
 
 
 
