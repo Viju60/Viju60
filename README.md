@@ -3,7 +3,7 @@
 - Tring To Becomes Pro 
 - currently learning FYBSC Computer Science
 
-- I'm interested in python , C (basic) open source project , Telegram Bot's , pirogram 
+- I'm interested in python , C (basic) open source project , Telegram Bot's , Program etc.. 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Viju60&color=blue&style=flat-square&label=Profile+Views)
 
