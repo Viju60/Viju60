@@ -3,7 +3,7 @@
 - 👋 Hi, I’m [Vijay Kage](https://t.me/itsmevijuu)
 
 - Tring To Becomes Pro 
-- currently learning DYP Computer Science
+- Onion user | Web developer | Telegram Bot Dev
 
 - I'm interested in python , C (basic) open source project , Telegram Bot's , Program etc.. 
 
